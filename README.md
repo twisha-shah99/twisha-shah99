@@ -17,45 +17,13 @@ I am currently pursuing my **Master's in Computer Science at Georgia Tech**, spe
 A quick learner and a curious soul, I enjoy tackling complex problems and building innovative AI solutions that bridge research and real-world impact.
 
 My work sits at the intersection of **AI engineering, backend systems, and distributed infrastructure**:
-
 - Built a distributed **multi-agent orchestration platform** at Qualcomm for Snapdragon SoC design workflows.
 - Developed **multimodal agentic AI systems** for oncology research at Emory.
 - Explored **asynchronous federated learning** at Georgia Tech's SAIL Lab.
 - Worked as a **Backend Software Engineer at JP Morgan**, building low-latency, high-throughput trading systems processing millions of daily orders.
 
-Current focus: building **graph-enhanced multi-agent intelligence systems** for market and regulatory insights using `LangChain`, `LangGraph`, `MCP`, `RAG`, vector indexing, `Supabase`, and `AWS`.
-
-> **Learn. Build. Repeat.**  
 > In a world of evolving AI, I am just a human trying to learn, grow, and make each day better than the last (preferably with coffee in hand) ☕
 
----
-
-## Open To Opportunities
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20TO%20OPPORTUNITIES-Full--time%20SDE%20%7C%20AI%2FML%20%7C%20Large%20Scale%20Systems%20%7C%20May%202026-FF4D6D?style=for-the-badge&labelColor=111827" alt="Open to Opportunities Banner" />
-</div>
-
-Seeking **full-time roles starting May 2026**.
-
----
-
-## Experience Highlights
-
-- **Qualcomm (Applied ML/GenAI Intern)**
-  - Reduced LLM analysis errors by **90%** through schema-validated, database-backed access patterns.
-  - Improved engineering throughput by **30%** with a LangGraph + MCP + RAG orchestration system.
-
-- **JP Morgan Chase (Backend SDE-1)**
-  - Delivered 10+ production features for a high-volume, low-latency equities trading platform.
-  - Led Sybase to AWS RDS migration with **zero downtime** and full consistency.
-  - Reduced memory usage by **40%** through runtime and cache optimization.
-
-- **Research (Georgia Tech / Emory)**
-  - Built graph-enhanced RAG pipelines over large-scale datasets.
-  - Architected MCP-based multimodal agent frameworks for clinical AI workflows.
-
----
 
 ## Tech Stack
 
