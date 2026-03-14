@@ -88,9 +88,6 @@ My work sits at the intersection of **AI engineering, backend systems, and distr
 
 ## Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20VERIFIED-CERTIFICATIONS-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Verified Certifications" />
-</div>
 
 <div align="center">
   <a href="https://www.credly.com/badges/5d7ed3ec-74ae-470c-ad58-3717d603c96d/public_url" target="_blank">
